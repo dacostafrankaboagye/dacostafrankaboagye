@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frank Aboagye</h1>
 <h3 align="center">| Embracing the Future with a Passion for New Tech | C.U.R.I.O.U.S</h3>
 
-- 🌱 I’m currently learning **new tech.**
-
 - 📫 How to reach me **frankgye18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
