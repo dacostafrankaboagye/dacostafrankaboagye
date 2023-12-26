@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Frank Aboagye</h1>
+<h1 align="center">Hi 👋, I'm </h1>
+ _______               _               _                                   
+(_______)             | |         /\  | |                                  
+ _____ ____ ____ ____ | |  _     /  \ | | _   ___   ____  ____ _   _  ____ 
+|  ___) ___) _  |  _ \| | / )   / /\ \| || \ / _ \ / _  |/ _  | | | |/ _  )
+| |  | |  ( ( | | | | | |< (   | |__| | |_) ) |_| ( ( | ( ( | | |_| ( (/ / 
+|_|  |_|   \_||_|_| |_|_| \_)  |______|____/ \___/ \_||_|\_|| |\__  |\____)
+                                                        (_____(____/       
 <h3 align="center">| Embracing the Future with a Passion for New Tech | C.U.R.I.O.U.S | </h3>
 
 - 📫 How to reach me **frankgye18@gmail.com**
