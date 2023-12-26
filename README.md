@@ -1,4 +1,4 @@
-<pre>
+<h1 align="center">Hi 👋, I'm </h1><pre>
  _______               _               _                                   
 (_______)             | |         /\  | |                                  
  _____ ____ ____ ____ | |  _     /  \ | | _   ___   ____  ____ _   _  ____ 
@@ -9,7 +9,6 @@
                                                         
 
 </pre>
- <h1 align="center">Hi 👋, I'm </h1>
 <h3 align="center">| Embracing the Future with a Passion for New Tech | C.U.R.I.O.U.S | </h3>
 
 - 📫 How to reach me **frankgye18@gmail.com**
