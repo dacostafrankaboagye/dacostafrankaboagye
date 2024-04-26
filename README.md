@@ -7,7 +7,7 @@
 |_|  |_|   \_||_|_| |_|_| \_)  |______|____/ \___/ \_||_|\_|| |\__  |\____)
                                                         (_____(____/
 </pre>
-<h3 align="center">| Embracing the Future with a Passion for New Tech | C.U.R.I.O.U.S | </h3>
+<h3 align="center"> Engineer </h3>
 
 - 📫 How to reach me **frankgye18@gmail.com**
 
