@@ -8,4 +8,4 @@
                                                         (_____(____/
 ```
 - [Active Github Profile - https://github.com/frankkwabenaaboagye](https://github.com/frankkwabenaaboagye)
-- 📫 Contact: **frankgye18@gmail.com**
+- **frankgye18@gmail.com**
