@@ -89,16 +89,6 @@ const frank = {
 
 ---
 
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dacostafrankaboagye&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 💼 **Professional Focus Areas**
 
 ```mermaid
