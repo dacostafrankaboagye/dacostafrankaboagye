@@ -77,12 +77,6 @@ const frank = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dacostafrankaboagye&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dacostafrankaboagye&theme=tokyo-night)
 
 </div>
