@@ -21,20 +21,13 @@
 
 ## 🎯 **About Me**
 
-I'm a passionate Software Engineer with a strong affinity for backend development. Currently on a continuous learning journey, exploring new technologies and deepening my understanding of server-side architectures. I believe in building robust, scalable systems while constantly expanding my knowledge base.
+Currently on a continuous learning journey, exploring new technologies and deepening my understanding of server-side architectures.
 
 ```javascript
 const frank = {
-    code: ["Java", "JavaScript", "Python", "TypeScript", "C", "..."],
-    technologies: {
-        frontEnd: ["Angular", "HTML5", "CSS", "Tailwind", "..."],
-        backEnd: ["Spring Boot", "Node.js", "Django", "FastAPI", "Express", "..."],
-        databases: ["PostgreSQL", "MongoDB", "..."],
-        cloud: ["AWS", "Docker", "Kubernetes", "..."]
-    },
-    currentlyLearning: ["Advanced system design", "Cloud architecture", "New frameworks"],
+    currentlyLearning: ["System design", "Cloud architecture", "New frameworks"],
     philosophy: "Every day is a chance to learn something new",
-    mindset: "Backend-focused, always curious"
+    mindset: "Just Build"
 };
 ```
 
@@ -49,12 +42,9 @@ const frank = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 ### **Frontend Technologies**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -63,16 +53,14 @@ const frank = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### **Databases & Cloud**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 </div>
 
