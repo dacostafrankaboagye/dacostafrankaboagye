@@ -33,7 +33,7 @@ const frank = {
 
 ---
 
-## 🛠️ **Technology Stack**
+<!-- ## 🛠️ **Technology Stack**
 
 <div align="center">
 
@@ -62,9 +62,9 @@ const frank = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-</div>
+</div> -->
 
----
+<!-- ---
 
 ## 📊 **GitHub Analytics**
 
@@ -79,7 +79,7 @@ const frank = {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dacostafrankaboagye&theme=tokyo-night)
 
-</div>
+</div> -->
 
 ---
 
@@ -94,18 +94,6 @@ graph LR
     D --> F[Cloud Deployment]
     E --> F
 ```
-
----
-
-## 🌟 **Current Learning Journey**
-
-- 🚀 Diving deep into backend system design and architecture
-- 📚 Constantly exploring new frameworks and technologies
-- 🌩️ Learning advanced cloud deployment strategies
-- 🔧 Understanding microservices and distributed systems
-- 🤝 Contributing to open-source projects to learn from the community
-- 💡 Always seeking to understand the "why" behind technologies
-
 ---
 
 ## 📫 **Let's Connect**
