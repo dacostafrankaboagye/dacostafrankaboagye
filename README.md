@@ -114,7 +114,7 @@ graph LR
 
 ### 💡 *"Great software is built by great people working together"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=dacostafrankaboagye&color=blueviolet&style=flat-square&label=Profile+Views)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=dacostafrankaboagye&color=blueviolet&style=flat-square&label=Profile+Views) -->
 
 ⭐️ From [dacostafrankaboagye](https://github.com/dacostafrankaboagye)
 
