@@ -83,7 +83,7 @@ const frank = {
 
 ---
 
-## 💼 **Professional Focus Areas**
+## 💼 **Areas**
 
 ```mermaid
 graph LR
