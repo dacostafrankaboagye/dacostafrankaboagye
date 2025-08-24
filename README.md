@@ -112,11 +112,12 @@ graph LR
 ## 🔗 Socials
 
 
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://medium.com/@aboagyekwabena_)
-[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/frankaboagye/)
-[![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/kwabenafrankjnr)
-[![](https://img.shields.io/static/v1?label&logo=instagram&message=Instagram&style=for-the-badge&color=black)](https://www.instagram.com/kwabena.frank.jnr/)
-[![](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@frankkwabenaaboagye)
+[![Medium](https://img.shields.io/badge/Medium-Blog-black?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@aboagyekwabena_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/frankaboagye/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-black?logo=x&logoColor=white&style=for-the-badge)](https://x.com/kwabenafrankjnr)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-black?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kwabena.frank.jnr/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@frankkwabenaaboagye)
+
 
 
 
