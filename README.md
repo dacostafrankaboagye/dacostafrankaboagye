@@ -96,17 +96,26 @@ graph LR
 ```
 ---
 
-## 📫 **Let's Connect**
+<!-- ## 📫 **Let's Connect** -->
 
-<div align="center">
+<!-- <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/frankaboagye)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frankgye18@gmail.com)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kwabenafrankjnr)
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@frankkwabenaaboagye)
 
-</div>
+</div> -->
+
+
+## 🔗 Socials
+
+
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://medium.com/@aboagyekwabena_)
+[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/frankaboagye/)
+[![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/kwabenafrankjnr)
+[![](https://img.shields.io/static/v1?label&logo=instagram&message=Instagram&style=for-the-badge&color=black)](https://www.instagram.com/kwabena.frank.jnr/)
 
 ---
 
