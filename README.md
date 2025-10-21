@@ -11,21 +11,20 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝      
 ```
 
-### 🚀 **Engineer** | **Builder** 
+### **Engineer** | **Builder** 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+enthusiast+on+a+learning+journey;Exploring+new+technologies+daily;Building+server-side+solutions;Always+curious%2C+always+growing)](https://git.io/typing-svg)
 
 </div>
 
 ---
+<!--
+ ## 🎯 **About Me**
 
-## 🎯 **About Me**
-
-Currently on a continuous learning journey, exploring new technologies and deepening my understanding of server-side architectures.
+Currently on a continuous learning journey, exploring new technologies and deepening my understanding of server-side architectures. -->
 
 ```javascript
 const frank = {
-    currentlyLearning: ["System design", "Cloud architecture", "New frameworks"],
     philosophy: "Every day is a chance to learn something new",
     mindset: "Just Build"
 };
@@ -83,7 +82,8 @@ const frank = {
 
 ---
 
-## 💼 **Areas**
+<!--
+## 💼 **Areas** -->
 
 ```mermaid
 graph LR
@@ -108,8 +108,8 @@ graph LR
 
 </div> -->
 
-
-## 🔗 Socials
+<!--
+## 🔗 Socials -->
 
 
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://medium.com/@aboagyekwabena_)
