@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Frank Kwabena Aboagye
+# Hello, I'm Frank Kwabena Aboagye
 
 ```ascii
 ███████╗██████╗  █████╗ ███╗   ██╗██╗  ██╗    
@@ -29,9 +29,6 @@ const frank = {
     mindset: "Just Build"
 };
 ```
-
----
-
 <!-- ## 🛠️ **Technology Stack**
 
 <div align="center">
@@ -115,7 +112,6 @@ graph LR
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://medium.com/@aboagyekwabena_)
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/frankaboagye/)
 [![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/kwabenafrankjnr)
-[![](https://img.shields.io/static/v1?label&logo=instagram&message=Instagram&style=for-the-badge&color=black)](https://www.instagram.com/kwabena.frank.jnr/)
 [![](https://img.shields.io/static/v1?label&logo=youtube&message=YouTube&style=for-the-badge&color=black)](https://www.youtube.com/@frankkwabenaaboagye)
 
 
