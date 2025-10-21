@@ -125,7 +125,7 @@ graph LR
 
 <div align="center">
 
-### 💡 *"Great software is built by great people working together"*
+### 💡 *"First, make your code simple and correct; then make it fast and small, but only if necessary.* - How to Progam - Deitel
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=dacostafrankaboagye&color=blueviolet&style=flat-square&label=Profile+Views) -->
 
