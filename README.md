@@ -13,7 +13,7 @@
 
 ### **Engineer** | **Builder** 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+enthusiast+on+a+learning+journey;Exploring+new+technologies+daily;Building+server-side+solutions;Always+curious%2C+always+growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+dev+on+a+learning+journey;Exploring+new+technologies+daily;Building+server-side+solutions;Always+curious%2C+always+growing)](https://git.io/typing-svg)
 
 </div>
 
@@ -82,15 +82,18 @@ const frank = {
 <!--
 ## 💼 **Areas** -->
 
+<!--
 ```mermaid
 graph LR
-    A[Full-Stack Development] --> B[API Design]
-    A --> C[Database Architecture]
-    B --> D[Microservices]
-    C --> E[Performance Optimization]
-    D --> F[Cloud Deployment]
-    E --> F
+    A[Full-Stack Development] -- B[API Design]
+    A -- C[Database Architecture]
+    B -- D[Microservices]
+    C -- E[Performance Optimization]
+    D -- F[Cloud Deployment]
+    E -- F
 ```
+-->
+
 ---
 
 <!-- ## 📫 **Let's Connect** -->
@@ -111,7 +114,6 @@ graph LR
 
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://medium.com/@aboagyekwabena_)
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/frankaboagye/)
-[![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/kwabenafrankjnr)
 [![](https://img.shields.io/static/v1?label&logo=youtube&message=YouTube&style=for-the-badge&color=black)](https://www.youtube.com/@frankkwabenaaboagye)
 
 
