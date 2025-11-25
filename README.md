@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&width=750&pause=1400&lines=Process%3A+Continuously+building+innovative+solutions;+Memory%3A+%E2%88%9E;+CPU%3A+100%25" />
 
 <!-- Line 4: Tasks + Status -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&width=750&pause=1600&lines=Tasks%3A+%E2%99%BE+(Always+learning);+Status%3A+%22Just+building...%22" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&width=750&pause=1600&lines=Tasks%3A+%E2%99%BE+(learning);+Status%3A+%22Just+building...%22" />
 
 <!-- Line 5: Main Process + Modules -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&width=750&pause=1800&lines=Main+PID%3A+42+(build-forever);+Modules%3A+%2Fengine.slice%2F%3E_Frank+%7C--42+%2Fusr%2Fbin%2Fexploring" />
