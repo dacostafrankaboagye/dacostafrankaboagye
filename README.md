@@ -17,7 +17,6 @@
 
 
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://medium.com/@aboagyekwabena_)
-[![](https://img.shields.io/static/v1?label&logo=twitter&message=X&style=for-the-badge&color=black)](https://x.com/kwabenafrankjnr)
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/frankaboagye/)
 [![](https://img.shields.io/static/v1?label&logo=youtube&message=YouTube&style=for-the-badge&color=black)](https://www.youtube.com/@frankkwabenaaboagye)
 
