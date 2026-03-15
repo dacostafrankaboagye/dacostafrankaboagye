@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Line 1: Symbolic “service” name + role -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&width=750&pause=1000&lines=%3E_Frank+-+Engineer" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&width=750&pause=1000&lines=%3E_Frank+-+Engineer" /> -->
 
 <!-- Line 2: Loaded + Active -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ff00&width=750&pause=1200&lines=Loaded%3A+loaded+%28%2Fusr%2Flocal%2Fbin%2F%3E_Frank+enabled%29;+Active%3A+%E2%97%8F+active+%28running%29" />
